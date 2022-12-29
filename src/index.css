@@ -1,0 +1,5 @@
+@import './a.css';
+body {
+	background-color: aquamarine;
+	transform: rotate(45deg);
+}
